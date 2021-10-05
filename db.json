@@ -1,0 +1,53 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "apellido_paterno": "Acatictla",
+      "apellido_materno": "Medina",
+      "nombre": "Cesar Alan",
+      "username": "AlanAM",
+      "password": "827ccb0eea8a706c4c34a16891f84e7b"
+    }
+  ],
+  "listados": [
+    {
+      "id": 1,
+      "nombre": "Tecnología de la información Nombre",
+      "descripcion": "Tecnología de la información Descripción",
+      "nomenclatura": "IT",
+      "tableData": {
+        "id": 0
+      }
+    },
+    {
+      "id": 2,
+      "nombre": "Administración",
+      "descripcion": "Administración",
+      "nomenclatura": "IT"
+    },
+    {
+      "id": 3,
+      "nombre": "Almacen",
+      "descripcion": "Centro de almacen",
+      "nomenclatura": "IT"
+    },
+    {
+      "id": 4,
+      "nombre": "Tester",
+      "descripcion": "Test",
+      "nomenclatura": "IT"
+    },
+    {
+      "id": 5,
+      "nombre": "Cesar Alan",
+      "descripcion": "AAAAAAAAAA",
+      "nomenclatura": "AA"
+    },
+    {
+      "id": 6,
+      "nombre": "Prueba",
+      "descripcion": "Prueba Prueba",
+      "nomenclatura": "Prueba Prueba Prueba"
+    }
+  ]
+}
